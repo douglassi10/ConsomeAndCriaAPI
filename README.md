@@ -12,18 +12,23 @@ A aplicação consome a API de números da dienekes, converte a lista de número
 Criar um ambiente virtual e instalar e instalar as bibliotecas necessárias.
 
 cria: python -m venv nome
-ativa: nome/Scripts/activate
+Ativa: nome/Scripts/activate
 
 Instale as bibliotecas externas
 
-pip install requests
-pip install flask
-pip install pytest
-pip install pytest-flask
+Pip install requests
+Pip install flask
+Pip install pytest
+Pip install pytest-flask
 
 Execute o scrip load.py para iniciar o servidor no endereço: http://127.0.0.1:5000/
 
 Acesse o recurso 'numerosordem' da API para obter os números ordenados. 
 
 ## Resultado
+
+![result](https://user-images.githubusercontent.com/31786934/144751651-aa4d7ad5-c2be-4e68-8f06-9c9d4339fd97.png)
+
+## Test 
+
 
